@@ -124,7 +124,9 @@ Connect your Android device or use an emulator with API level 31.
 Build and run the application on an Android device.
 
 **Visual Studio**
+
 TODO: 
+
 1) Download Visual Studio from the "https://visualstudio.microsoft.com/downloads/"
 2) Run the installer 
 3) Selected recommended workloads (C++)
@@ -160,23 +162,28 @@ Basmah Arif - Lead Developer
 
 
 **Weekly Logbook**
+
 Throughout my time in studying, this weekly logbook will document the skills, methodologies, and achievements I acquire and accomplish during my Semester 1 Mobile Game Development Module. I will record this information on a week-to-week basis, offering detailed insights into the tasks I undertake. Moreover, I will highlight how these tasks contribute to expanding my expertise in my role as a Mobile Game Developer. 
 
 
 **September 2024**
 
 **Week 1: Introduction of the module – W/C 23rd September 2024**
+
 The first week started with the introduction of the Mobile Game module along with the overview of the Assessment Guide which we must submit for this module. Dr. Kurtis explained us what is required for this module and showed us past samples of students’ games for us to get an idea on our personal startup projects. He suggested us that we should be writing weekly logbooks, creating drafts/drawings of our game ideas and making a presentation. Then he guided us onto our Lab workshop which was to setup Unity for Android and IOS versions and connect it to our Mobile phones. Following on from his guidance, I decided to make separate folders for my modules of Semester 1 and started writing my logbook, organising my documents and Uploading my Lab work in GitHub to stay up to date with the progress. 
 
 **Week 2: Learning Prototyping & deciding Game Idea – W/C 30th September 2024**
+
 This week, we learned about Prototyping and how Gyroscope is used in Mobile Game. Our task was to make a quick easy game utilising the sensors of a mobile phone for testing. Unfortunately, my Unity version on the PC was unable to let me test properly in my mobile as it required Android API level which kept on failing to connect to my mobile’s unity remote. I discussed this with Dr. Kurtis, and he assured me that he will look at the problem as some machines had this same issue last year as well. However, I completed the Lab work and decided to create a GitHub repository to upload my work. At first, it was a challenge to decide what I am planning to do for my Game Project for this module. I started looking up for few ideas to collect and initiated with randomly drafted my game scene. I started to decide the theme, levels, characters of the game. 
 
 
 **October 2024**
 
 **Week 3: Discussion of Game Idea – W/C 7th October 2024**
+
 In this week, I carried out with the lab workshop which was to add some Particles on a project of weather to give it a snowy look with some snowflakes dropping down on a plane. Apart from this, I discussed my Game Idea with Dr. Kurtis on what I am planning to do. The idea is to create a 3D maze game with 2 to 3 levels with the Maze having some obstacles as Laser and the main player must escape the maze without touching the laser points. Dr. Kurtis asked me several questions related to the game and suggested ideas on adding In App Purchases, Ads and where/how to use those ads in the game. He liked the idea of the game and further suggested me to plan it ahead with requirements. Also, with this, he explained how we should document all our screenshots, designs and gave instructions to update logbooks. 
 
 **Week 4: Stage 1 Prototype & Pitch Preparation – W/C 14th October 2024**
+
 This week started off with initial planning to prototyping, focusing on refining game ideas and preparing for Stage 1 submission. I developed sketches for the maze, characters and obstacles to make sure that they align with the game mechanics. I also began documenting core ideas, including game mechanics, player abilities, and potential narrative elements to enhance immersion. In our Week 4 lecture, I reviewed the assessment guide with Dr. Kurtis and clarified requirements for integrating In-App Purchases (IAPs) and ads. His feedback helped me consider how these elements could enhance gameplay and monetization. I also completed the Lab workshops by implementing basic game scene in Unity. Towards the end of the week, I started preparing for the upcoming pitch by outlining the game’s core mechanics and unique features, such as mobile sensor integration. 
 
