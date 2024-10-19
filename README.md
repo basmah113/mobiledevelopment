@@ -3,10 +3,12 @@ Basmah Arif | Module CMP6187 Mobile Game Development | Student ID:21159823
 **MobileDevelopment**
 
 **Overview**
+
 This project contains Mobile Game Development project developed using Unity, Unreal Engine and Visual Studio. It will be thoroughly tested using an Android Samsung A52 device with API 31. Lightdash:Break the Beam is a single-player mobile game that combines fast-paced reflexes with strategic puzzle-solving. The player is trapped in a series of increasingly complex laser filled rooms and must navigate through the maze while avoiding deadly lasers and other obstacles. The game includes four progressively challenging levels, each with unique environments and mechanics to test the player's skill.
 The game is built using Unity and C# for scripting. The project focuses on implementing dynamic obstacles, responsive controls, and level progression to keep players engaged on Mobile App.
 
 **Description of the Game**
+
 In Lightdash:Break the Beam, player is tasked with escaping from a series of laser filled rooms. Each level presents a different challenge, ranging from dodging moving laser beams, solving mazes, to performing precision jumps in parkour-style sections. The goal is to reach the exit, all while avoiding deadly laser beams. 
 
 **Levels:**
@@ -27,9 +29,11 @@ The final level includes a mix of jumping, dodging lasers, and activating switch
 **Game Mechanics**
 
 - **Single-Player Experience:**
+  
 The game is designed as a single-player adventure where the player takes full control of navigating each level, focusing on timing, reflexes, and strategy to overcome obstacles.
 
 - **Touch-Based Controls:**
+  
 Swipe Left/Right: Moves the player character left or right.
 Swipe Up: Makes the player jump.
 Swipe Down: Allows the player to crouch (useful for dodging certain obstacles).
@@ -61,17 +65,21 @@ Certain levels have a time limit, requiring player to complete the level before 
 
 
 **Visual and Audio Design**
+
 - Futuristic Aesthetic:
 The game features colored lasers and metallic walls, giving it a clean, sci-fi look. The lasers have a glowing effect to ensure they stand out.
+
 - Minimalistic Design:
 The overall visual design is kept simple to ensure that the focus remains on the navigation challenge.
 
 **Background/Motivation**
+
 Lightdash:Break the Beam draws inspiration from classic arcade-style reflex games and modern puzzle-platformers. The idea of navigating through deadly environments came from my love for high-tension parkour games where players must balance both quick decision-making and strategic planning. The combination of different challenges across levels: such as avoiding lasers, solving mazes, and completing parkour obstacles creates an engaging variety that keeps the gameplay fresh and exciting.
 The decision to include mobile-friendly touch controls was based on the desire to create a highly accessible experience that players could enjoy on the go. With each level offering a unique type of challenge, from reflex-based dodging to puzzle-solving and platforming, Lightdash:Break the Beam aims to provide a broad range of challenges for mobile gamers.
 
 
 **Technologies Used**
+
 - Visual Studio: https://https//code.visualstudio.com/ (Code Development)
 - Unity: https://unity.com/ (Game Engine used for development - Stage 1)
 - Unreal Engine: https://www.unrealengine.com/en-US/download (Game Engine used for development - Stage 2)
@@ -80,24 +88,39 @@ The decision to include mobile-friendly touch controls was based on the desire t
 
 
 **Tutor Feedback Reflection Week 3:**
+
 **Feedback:** Discussed the Game Idea with Dr.Kurtis and he suggested great ideas to make it better with adding monetizations/ads/In-App purchases. Also suggested to add difficulty levels to keep the players engaging.
+
 **Action Taken:** Started Initial planning, basic level designs and laser mechanics. Along with deciding on the lasers, obstacles, player health system and timers in the game. 
 
 ## Folders / Structures
+
 Basmah_Arif_21159823
+
 1. [bin] (contains compiled binaries)
+   
 2. [code] (contains source code)
+   
 3. [imgs] (contains projects images and visual assets)
+   
 4. [labs] (contains lab workshops from week to week, documenting the progress of lectures)
+   
 5. .gitignore (contains untracked files to ignore in Git such as Build files, logs)
-6. [Readme] (this file contains documentation))
+    
+6. [Readme] (this file contains documentation)
+    
 7. [video] (this file will contain gameplay and project demo videos with h264/aac however not yet implemented)
 
 **Installation**
+
 Clone the repository to your local machine:
+
 git clone https://github.com/basmah113/mobiledevelopment.git
+
 Open the project in Unity/Unreal.
+
 Connect your Android device or use an emulator with API level 31.
+
 Build and run the application on an Android device.
 
 **Visual Studio**
@@ -108,15 +131,18 @@ TODO:
 4) Open Visual Studio from application folder
 
 **Development Methodology**
+
 - I have used GitHub Projects Agile methodology to track my tasks and progress.
 - Regular use of GitHub Issues for feature tracking and task assignment.
 
 **Quality Assurance**
+
 - I will be using code linting for consistency and bug prevention.
 - CI/CD setup in GitHub to ensure smooth integration and testing.
 - Regular code reviews by automated tests to validate the codebase.
 
 ## Contributing
+
 1. Git hub repository
 2. Features: `git checkout -b myrepository`
 3. Commit changes: `git commit -am 'basmah113'`
@@ -128,6 +154,7 @@ TODO:
 
 
 **Contributors**
+
 Basmah Arif - Lead Developer
 
 
