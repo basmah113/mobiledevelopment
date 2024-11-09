@@ -161,6 +161,7 @@ Basmah Arif - Lead Developer
 
 
 
+
 **Weekly Logbook**
 
 Throughout my time in studying, this weekly logbook will document the skills, methodologies, and achievements I acquire and accomplish during my Semester 1 Mobile Game Development Module. I will record this information on a week-to-week basis, offering detailed insights into the tasks I undertake. Moreover, I will highlight how these tasks contribute to expanding my expertise in my role as a Mobile Game Developer. 
