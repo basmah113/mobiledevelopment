@@ -162,12 +162,12 @@ Basmah Arif - Lead Developer
 
 
 
-**Weekly Logbook**
+## Weekly Logbook
 
 Throughout my time in studying, this weekly logbook will document the skills, methodologies, and achievements I acquire and accomplish during my Semester 1 Mobile Game Development Module. I will record this information on a week-to-week basis, offering detailed insights into the tasks I undertake. Moreover, I will highlight how these tasks contribute to expanding my expertise in my role as a Mobile Game Developer. 
 
 
-**September 2024**
+## September 2024
 
 **Week 1: Introduction of the module – W/C 23rd September 2024**
 
@@ -189,7 +189,7 @@ This week, we learned about Prototyping and how Gyroscope is used in Mobile Game
 
 
 
-**October 2024**
+## October 2024
 
 
 **Week 3: Discussion of Game Idea – W/C 7th October 2024**
@@ -232,7 +232,7 @@ This week, I dedicated time to integrating mobile-specific features such as touc
 
 
 
-**November 2024**
+## November 2024
 
 
 **Week 7: Feedback on the Progress & Continued the Game Project – W/C 04th November 2024**
