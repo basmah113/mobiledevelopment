@@ -1,13 +1,13 @@
 Basmah Arif | Module CMP6187 Mobile Game Development | Student ID:21159823
 
-**MobileDevelopment**
+## MobileDevelopment
 
-**Overview**
+## Overview
 
 This project contains Mobile Game Development project developed using Unity, Unreal Engine and Visual Studio. It will be thoroughly tested using an Android Samsung A52 device with API 31. Lightdash:Break the Beam is a single-player mobile game that combines fast-paced reflexes with strategic puzzle-solving. The player is trapped in a series of increasingly complex laser filled rooms and must navigate through the maze while avoiding deadly lasers and other obstacles. The game includes four progressively challenging levels, each with unique environments and mechanics to test the player's skill.
 The game is built using Unity and C# for scripting. The project focuses on implementing dynamic obstacles, responsive controls, and level progression to keep players engaged on Mobile App.
 
-**Description of the Game**
+## Description of the Game
 
 In Lightdash:Break the Beam, player is tasked with escaping from a series of laser filled rooms. Each level presents a different challenge, ranging from dodging moving laser beams, solving mazes, to performing precision jumps in parkour-style sections. The goal is to reach the exit, all while avoiding deadly laser beams. 
 
@@ -64,7 +64,7 @@ Occasionally, power-ups spawn in difficult-to-reach areas. These can temporarily
 Certain levels have a time limit, requiring player to complete the level before time runs out. In advanced levels, player can take minor damage (losing a life) from non-lethal obstacles (like falling platforms), but touching lasers results in an immediate reset of the level.
 
 
-**Visual and Audio Design**
+## Visual and Audio Design
 
 - Futuristic Aesthetic:
 The game features colored lasers and metallic walls, giving it a clean, sci-fi look. The lasers have a glowing effect to ensure they stand out.
@@ -72,13 +72,13 @@ The game features colored lasers and metallic walls, giving it a clean, sci-fi l
 - Minimalistic Design:
 The overall visual design is kept simple to ensure that the focus remains on the navigation challenge.
 
-**Background/Motivation**
+## Background/Motivation
 
 Lightdash:Break the Beam draws inspiration from classic arcade-style reflex games and modern puzzle-platformers. The idea of navigating through deadly environments came from my love for high-tension parkour games where players must balance both quick decision-making and strategic planning. The combination of different challenges across levels: such as avoiding lasers, solving mazes, and completing parkour obstacles creates an engaging variety that keeps the gameplay fresh and exciting.
 The decision to include mobile-friendly touch controls was based on the desire to create a highly accessible experience that players could enjoy on the go. With each level offering a unique type of challenge, from reflex-based dodging to puzzle-solving and platforming, Lightdash:Break the Beam aims to provide a broad range of challenges for mobile gamers.
 
 
-**Technologies Used**
+## Technologies Used
 
 - Visual Studio: https://https//code.visualstudio.com/ (Code Development)
 - Unity: https://unity.com/ (Game Engine used for development - Stage 1)
@@ -87,11 +87,21 @@ The decision to include mobile-friendly touch controls was based on the desire t
 - C#: (Programming Languages for scripting and game mechanics)
 
 
+## Feedback
+
 **Tutor Feedback Reflection Week 3:**
 
 **Feedback:** Discussed the Game Idea with Dr.Kurtis and he suggested great ideas to make it better with adding monetizations/ads/In-App purchases. Also suggested to add difficulty levels to keep the players engaging.
 
 **Action Taken:** Started Initial planning, basic level designs and laser mechanics. Along with deciding on the lasers, obstacles, player health system and timers in the game. 
+
+
+**Tutor Feedback Reflection Week 7:**
+
+**Feedback:** The feedback was invaluable, as it helped me identify areas needing improvement, especially around touch control sensitivity and UI accessibility. Making these adjustments improved the gameplay experience and allowed me to address areas that could impact the final submission.
+
+**Action Taken:** Addressed feedback, enhanced touch control sensitivity, refined player movement and made UI adjustments for better accessibility. Continued to implement feedback-driven improvements to prepare for the next submission.ers in the game. 
+
 
 ## Folders / Structures
 
@@ -111,7 +121,7 @@ Basmah_Arif_21159823
     
 7. [video] (this file will contain gameplay and project demo videos with h264/aac however not yet implemented)
 
-**Installation**
+## Installation
 
 Clone the repository to your local machine:
 
@@ -123,7 +133,7 @@ Connect your Android device or use an emulator with API level 31.
 
 Build and run the application on an Android device.
 
-**Visual Studio**
+## Visual Studio
 
 TODO: 
 
@@ -132,7 +142,7 @@ TODO:
 3) Selected recommended workloads (C++)
 4) Open Visual Studio from application folder
 
-**Development Methodology**
+## Development Methodology
 
 - I have used GitHub Projects Agile methodology to track my tasks and progress.
 - Regular use of GitHub Issues for feature tracking and task assignment.
