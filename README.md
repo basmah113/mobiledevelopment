@@ -167,7 +167,7 @@ TODO:
 
 **Contributors**
 
-Basmah Arif - Lead Developer
+- Basmah Arif - Lead Developer
 
 
 
