@@ -178,6 +178,7 @@ The first week started with the introduction of the Mobile Game module along wit
 •	Milestone: Created separate folders for all modules, began writing the weekly logbook, and organized my documentation. Uploaded my first lab work to GitHub to stay on track with progress.
 
 
+
 **Week 2: Learning Prototyping & deciding Game Idea – W/C 30th September 2024**
 
 This week, we learned about Prototyping and how Gyroscope is used in Mobile Game. Our task was to make a quick easy game utilising the sensors of a mobile phone for testing. Unfortunately, my Unity version on the PC was unable to let me test properly in my mobile as it required Android API level which kept on failing to connect to my mobile’s unity remote. I discussed this with Dr. Kurtis, and he assured me that he will look at the problem as some machines had this same issue last year as well. However, I completed the Lab work and decided to create a GitHub repository to upload my work. At first, it was a challenge to decide what I am planning to do for my Game Project for this module. I started looking up for few ideas to collect and initiated with randomly drafted my game scene. I started to decide the theme, levels, characters of the game. 
@@ -187,7 +188,9 @@ This week, we learned about Prototyping and how Gyroscope is used in Mobile Game
 •	Milestone: Created my GitHub repository, completed the lab tasks, and began drafting ideas for my game project, outlining potential themes, characters, and levels.
 
 
+
 **October 2024**
+
 
 **Week 3: Discussion of Game Idea – W/C 7th October 2024**
 
@@ -196,6 +199,7 @@ In this week, I carried out with the lab workshop which was to add some Particle
 •	Reflection: Discussing the idea with Dr. Kurtis gave me the clarity I needed to refine my concept and helped me understand how in-app purchases and ads could be incorporated.
 
 •	Milestone: Finalized the concept for a 3D maze game and began planning the implementation of in-app purchases and ads. Updated my logbook and started documenting design sketches and early concepts.
+
 
 
 **Week 4: Stage 1 Prototype & Pitch Preparation – W/C 14th October 2024**
@@ -207,6 +211,7 @@ This week started off with initial planning to prototyping, focusing on refining
 •	Milestone: Completed sketches for the core elements of the game, started documentation for game mechanics, and began pitch preparation. Built a basic game scene in Unity and outlined core game features for the Stage 1 submission.
 
 
+
 **Week 5: Presentation & Further Implementations – W/C 21st October 2024**
 
 This week began with the presentation for Stage 1, where I showcased my documentation, game idea and initial prototype to Dr. Kurtis. Following the presentation, I resumed work on the game scene, focusing on building out the level design and refining player interactions. I implemented additional visual elements in the game scene to create a more engaging environment and started exploring ways to integrate laser obstacles and simple animations for the player character. 
@@ -214,6 +219,7 @@ This week began with the presentation for Stage 1, where I showcased my document
 •	Reflection: Presenting my work helped clarify the direction of my game and provided motivation to improve the game scene. Focusing on the core scene development allowed me to create a more immersive experience that aligns with my initial vision.
 
 •	Milestone: Completed the Stage 1 presentation and implemented additional features in the game scene, including obstacle integration and player interaction improvements.
+
 
 
 **Week 6: Worked on Mobile Features for the Game – W/C 28th October 2024**
@@ -225,7 +231,9 @@ This week, I dedicated time to integrating mobile-specific features such as touc
 •	Milestone: Successfully implemented touch controls and initial gyro functions, tested compatibility across various screen sizes, and addressed minor UI issues for better user experience on mobile.
 
 
+
 **November 2024**
+
 
 **Week 7: Feedback on the Progress & Continued the Game Project – W/C 04th November 2024**
 
@@ -234,6 +242,7 @@ In Week 7, I received feedback on the current progress, which included suggestio
 •	Reflection: The feedback was invaluable, as it helped me identify areas needing improvement, especially around touch control sensitivity and UI accessibility. Making these adjustments improved the gameplay experience and allowed me to address areas that could impact the final submission.
 
 •	Milestone: Addressed feedback, enhanced touch control sensitivity, refined player movement and made UI adjustments for better accessibility. Continued to implement feedback-driven improvements to prepare for the next submission.
+
 
 
 **Week 8: – W/C 11th November 2024**
