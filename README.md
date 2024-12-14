@@ -39,10 +39,10 @@ The game is designed as a single-player adventure where the player takes full co
 3) Swipe Down: Allows the player to crouch (useful for dodging certain obstacles).
 4) Tap: Interacts with objects like switches or buttons.
 
-- Running and Walking:
+- **Running and Walking:**
 Player can control the speed of the movement based on swiping intensity. A short swipe makes the character walk, while a longer, faster swipe makes the character run. This adds an element of timing to avoid lasers and navigate obstacles.
 
-- Jumping:
+- **Jumping:**
 Tapping or swiping up allows the player to jump over obstacles. Some areas will require precise timing to avoid laser beams or cross collapsing platforms.
 
 - **Laser Avoidance:**
