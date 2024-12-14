@@ -34,10 +34,10 @@ The game is designed as a single-player adventure where the player takes full co
 
 - **Touch-Based Controls:**
   
-Swipe Left/Right: Moves the player character left or right.
-Swipe Up: Makes the player jump.
-Swipe Down: Allows the player to crouch (useful for dodging certain obstacles).
-Tap: Interacts with objects like switches or buttons.
+1) Swipe Left/Right: Moves the player character left or right.
+2) Swipe Up: Makes the player jump.
+3) Swipe Down: Allows the player to crouch (useful for dodging certain obstacles).
+4) Tap: Interacts with objects like switches or buttons.
 
 - Running and Walking:
 Player can control the speed of the movement based on swiping intensity. A short swipe makes the character walk, while a longer, faster swipe makes the character run. This adds an element of timing to avoid lasers and navigate obstacles.
