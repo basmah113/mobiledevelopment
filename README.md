@@ -90,23 +90,23 @@ The decision to include mobile-friendly touch controls was based on the desire t
 
 **Week 3 Feedback:**
 
-**Feedback:** Discussed the Game Idea with Dr.Kurtis and he suggested great ideas to make it better with adding monetizations/ads/In-App purchases. Also suggested to add difficulty levels to keep the players engaging.
+- **Feedback:** Discussed the Game Idea with Dr.Kurtis and he suggested great ideas to make it better with adding monetizations/ads/In-App purchases. Also suggested to add difficulty levels to keep the players engaging.
 
-**Action Taken:** Started Initial planning, basic level designs and laser mechanics. Along with deciding on the lasers, obstacles, player health system and timers in the game. 
+- **Action Taken:** Started Initial planning, basic level designs and laser mechanics. Along with deciding on the lasers, obstacles, player health system and timers in the game. 
 
 
 **Week 7 Feedback:**
 
-**Feedback:** The feedback was invaluable, as it helped me identify areas needing improvement, especially around touch control sensitivity and UI accessibility. Making these adjustments improved the gameplay experience and allowed me to address areas that could impact the final submission.
+- **Feedback:** The feedback was invaluable, as it helped me identify areas needing improvement, especially around touch control sensitivity and UI accessibility. Making these adjustments improved the gameplay experience and allowed me to address areas that could impact the final submission.
 
-**Action Taken:** Addressed feedback, enhanced touch control sensitivity, refined player movement and made UI adjustments for better accessibility. Continued to implement feedback-driven improvements to prepare for the next submission.ers in the game. 
+- **Action Taken:** Addressed feedback, enhanced touch control sensitivity, refined player movement and made UI adjustments for better accessibility. Continued to implement feedback-driven improvements to prepare for the next submission.ers in the game. 
 
 
 **Week 12 Feedback:**
 
-**Feedback:** Dr.Kurtis provided detailed guidance on the progress of mobile features, emphasizing the need to refine sensor integration and explore Unity’s input system for a seamless user experience. He also suggested leveraging features like vibrations and incorporating Google Play Services to enhance gameplay and platform compatibility.
+- **Feedback:** Dr.Kurtis provided detailed guidance on the progress of mobile features, emphasizing the need to refine sensor integration and explore Unity’s input system for a seamless user experience. He also suggested leveraging features like vibrations and incorporating Google Play Services to enhance gameplay and platform compatibility.
 
-**Action Taken:** Based on the feedback, I began implementing vibration levels (high, medium, low) for different in-game events to improve player immersion. I also started integrating Unity’s Input System to streamline touch and sensor-based controls. Additionally, I explored the setup for Google Play Services to ensure the game is ready for platform-specific functionalities. Progress on these features will be demonstrated in the upcoming bootcamp session for further review.
+- **Action Taken:** Based on the feedback, I began implementing vibration levels (high, medium, low) for different in-game events to improve player immersion. I also started integrating Unity’s Input System to streamline touch and sensor-based controls. Additionally, I explored the setup for Google Play Services to ensure the game is ready for platform-specific functionalities. Progress on these features will be demonstrated in the upcoming bootcamp session for further review.
 
 **BootCamp Feedback:**
 
