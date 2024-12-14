@@ -267,7 +267,7 @@ In Week 8, I learned about memory and asset optimization techniques to ensure ou
 
 
 
-Week 9: Easing Functions, Audio and Optimization Tips – W/C 18th November 2024
+**Week 9: Easing Functions, Audio and Optimization Tips – W/C 18th November 2024**
 
 This week focused on practical tips for optimizing mobile games, including easing functions, audio management and movement interpolation using Lerp. I began applying easing functions to smooth player animations and integrated basic audio features, such as background music and sound effects, for better immersion. Additionally, I continued refining the performance of the game based on optimization tips learned in class.
 
@@ -277,7 +277,7 @@ This week focused on practical tips for optimizing mobile games, including easin
 
 
 
-Week 10: Publishing to Google Play Store – W/C 25th November 2024
+**Week 10: Publishing to Google Play Store – W/C 25th November 2024**
 
 In Week 10, we focused on the process of publishing Unity games to the Google Play Store. I learned about setting the target API level to 31 or above and ensuring the game meets Google’s requirements for publishing. Additionally, I worked on implementing features from Chapters 10, 11, and 12 of our course material, including polishing the UI, refining controls and enhancing game mechanics for the final build.
 
@@ -290,7 +290,7 @@ In Week 10, we focused on the process of publishing Unity games to the Google Pl
 ## December 2024
 
 
-Week 11: Web Game Development and Final Queries – W/C 2nd December 2024
+**Week 11: Web Game Development and Final Queries – W/C 2nd December 2024**
 
 This week, we discussed web game development related to mobile games and addressed project queries with Dr.Kurtis. I finalized the UI and ensured cross-platform compatibility while continuing to refine the game mechanics. I also explored the possibility of converting the game into a web-based version, focusing on making it lightweight and responsive.
 
@@ -300,7 +300,7 @@ This week, we discussed web game development related to mobile games and address
 
 
 
-Week 12: Final Instructions and Project Review – W/C 9th December 2024
+**Week 12: Final Instructions and Project Review – W/C 9th December 2024**
 
 In the final week, we received detailed instructions about the project submission and reviewed our games with Dr. Kurtis. I applied the last round of optimizations and ensured all features were functioning as intended. Reading materials on the Moodle page provided additional insights into polishing the game for submission. 
 
@@ -310,19 +310,19 @@ In the final week, we received detailed instructions about the project submissio
 
 
 
-Week 13: BootCamp Session & Project Implementation for Submission – W/C 16th December 2024
+**Week 13: BootCamp Session & Project Implementation for Submission – W/C 16th December 2024**
 
 Pending
 
 
 
-Week 14: – W/C 23rd December 2024
+**Week 14: – W/C 23rd December 2024**
 
 Pending
 
 
 
-Week 15: – W/C 30th December 2024
+**Week 15: – W/C 30th December 2024**
 
 Pending
 
