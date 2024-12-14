@@ -72,10 +72,14 @@ The game features colored lasers and metallic walls, giving it a clean, sci-fi l
 - Minimalistic Design:
 The overall visual design is kept simple to ensure that the focus remains on the navigation challenge.
 
+
 ## Background/Motivation
 
 Lightdash:Break the Beam draws inspiration from classic arcade-style reflex games and modern puzzle-platformers. The idea of navigating through deadly environments came from my love for high-tension parkour games where players must balance both quick decision-making and strategic planning. The combination of different challenges across levels: such as avoiding lasers, solving mazes, and completing parkour obstacles creates an engaging variety that keeps the gameplay fresh and exciting.
 The decision to include mobile-friendly touch controls was based on the desire to create a highly accessible experience that players could enjoy on the go. With each level offering a unique type of challenge, from reflex-based dodging to puzzle-solving and platforming, Lightdash:Break the Beam aims to provide a broad range of challenges for mobile gamers.
+
+
+## UML Class Diagram
 
 
 ## Technologies Used
