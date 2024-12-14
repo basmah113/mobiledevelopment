@@ -80,6 +80,7 @@ The decision to include mobile-friendly touch controls was based on the desire t
 
 
 ## UML Class Diagram
+![image](https://github.com/user-attachments/assets/df9dba40-3629-4f06-8cec-3a20a0c9ab80)
 
 
 ## Technologies Used
