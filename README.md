@@ -26,7 +26,7 @@ Player must jump between platforms while avoiding lasers. Some platforms will co
 The final level includes a mix of jumping, dodging lasers, and activating switches that open doors to the exit. Player must time their movements carefully to avoid traps and escape in time.
 
 
-**Game Mechanics**
+## Game Mechanics
 
 - **Single-Player Experience:**
   
@@ -81,26 +81,34 @@ The decision to include mobile-friendly touch controls was based on the desire t
 ## Technologies Used
 
 - Visual Studio: https://https//code.visualstudio.com/ (Code Development)
-- Unity: https://unity.com/ (Game Engine used for development - Stage 1)
-- Unreal Engine: https://www.unrealengine.com/en-US/download (Game Engine used for development - Stage 2)
+- Unity: https://unity.com/ (Game Engine used for development - Stage 1 & 2)
 - GitHub: (Version control and collaboration)
 - C#: (Programming Languages for scripting and game mechanics)
 
 
-## Feedback
+## Tutor Feedback Reflection
 
-**Tutor Feedback Reflection Week 3:**
+**Week 3 Feedback:**
 
 **Feedback:** Discussed the Game Idea with Dr.Kurtis and he suggested great ideas to make it better with adding monetizations/ads/In-App purchases. Also suggested to add difficulty levels to keep the players engaging.
 
 **Action Taken:** Started Initial planning, basic level designs and laser mechanics. Along with deciding on the lasers, obstacles, player health system and timers in the game. 
 
 
-**Tutor Feedback Reflection Week 7:**
+**Week 7 Feedback:**
 
 **Feedback:** The feedback was invaluable, as it helped me identify areas needing improvement, especially around touch control sensitivity and UI accessibility. Making these adjustments improved the gameplay experience and allowed me to address areas that could impact the final submission.
 
 **Action Taken:** Addressed feedback, enhanced touch control sensitivity, refined player movement and made UI adjustments for better accessibility. Continued to implement feedback-driven improvements to prepare for the next submission.ers in the game. 
+
+
+**Week 12 Feedback:**
+
+**Feedback:** Dr.Kurtis provided detailed guidance on the progress of mobile features, emphasizing the need to refine sensor integration and explore Unity’s input system for a seamless user experience. He also suggested leveraging features like vibrations and incorporating Google Play Services to enhance gameplay and platform compatibility.
+
+**Action Taken:** Based on the feedback, I began implementing vibration levels (high, medium, low) for different in-game events to improve player immersion. I also started integrating Unity’s Input System to streamline touch and sensor-based controls. Additionally, I explored the setup for Google Play Services to ensure the game is ready for platform-specific functionalities. Progress on these features will be demonstrated in the upcoming bootcamp session for further review.
+
+**BootCamp Feedback:**
 
 
 ## Folders / Structures
@@ -127,7 +135,7 @@ Clone the repository to your local machine:
 
 git clone https://github.com/basmah113/mobiledevelopment.git
 
-Open the project in Unity/Unreal.
+Open the project in Unity.
 
 Connect your Android device or use an emulator with API level 31.
 
@@ -161,15 +169,9 @@ TODO:
 4. Push to the branch: `git push origin my-repository`
 5. Submit a pull request :D
 
-
-**References:** 
-
-
 **Contributors**
 
 - Basmah Arif - Lead Developer
-
-
 
 
 ## Weekly Logbook
@@ -255,4 +257,80 @@ In Week 7, I received feedback on the current progress, which included suggestio
 
 
 
-**Week 8: – W/C 11th November 2024**
+**Week 8: Memory and Asset Optimization – W/C 11th November 2024**
+
+In Week 8, I learned about memory and asset optimization techniques to ensure our game performs efficiently on mobile devices. Dr.Kurtis guided us through the assessment breakdown and reiterated the key requirements for our projects. I started applying memory optimization strategies, such as reducing texture sizes and managing in-game assets efficiently, to improve the performance of my game. Additionally, I reviewed the project documentation to ensure it aligns with the assessment criteria.
+
+• Reflection: Learning about optimization helped me understand the importance of balancing performance and visual quality. Applying these techniques enhanced the game's responsiveness and ensured better compatibility with lower-end devices.
+
+• Milestone: Implemented initial memory and asset optimization techniques and reviewed project documentation based on the assessment breakdown.
+
+
+
+Week 9: Easing Functions, Audio and Optimization Tips – W/C 18th November 2024
+
+This week focused on practical tips for optimizing mobile games, including easing functions, audio management and movement interpolation using Lerp. I began applying easing functions to smooth player animations and integrated basic audio features, such as background music and sound effects, for better immersion. Additionally, I continued refining the performance of the game based on optimization tips learned in class.
+
+• Reflection: Implementing easing functions and audio added polish to the gameplay experience, making movements and transitions feel more fluid and engaging. The insights into optimization further enhanced my ability to improve performance while maintaining quality.
+
+• Milestone: Integrated easing functions and audio into the game. Refined optimization techniques for smoother gameplay performance.
+
+
+
+Week 10: Publishing to Google Play Store – W/C 25th November 2024
+
+In Week 10, we focused on the process of publishing Unity games to the Google Play Store. I learned about setting the target API level to 31 or above and ensuring the game meets Google’s requirements for publishing. Additionally, I worked on implementing features from Chapters 10, 11, and 12 of our course material, including polishing the UI, refining controls and enhancing game mechanics for the final build.
+
+• Reflection: Understanding the publishing process was essential for preparing the game for deployment. Working on these implementations helped me align the game with industry standards and improve its readiness for submission.
+
+• Milestone: Prepared the game to meet Google Play Store requirements. Implemented features from Chapters 10, 11 and 12 into the game.
+
+
+
+## December 2024
+
+
+Week 11: Web Game Development and Final Queries – W/C 2nd December 2024
+
+This week, we discussed web game development related to mobile games and addressed project queries with Dr.Kurtis. I finalized the UI and ensured cross-platform compatibility while continuing to refine the game mechanics. I also explored the possibility of converting the game into a web-based version, focusing on making it lightweight and responsive.
+
+• Reflection: Discussing queries with Dr.Kurtis provided clarity on final adjustments needed for the project. Exploring web game development expanded my understanding of cross-platform game deployment and gave me insights into future possibilities for the project.
+
+• Milestone: Finalized the game’s UI and continued polishing the mechanics. Addressed project queries and ensured the game is ready for final feedback.
+
+
+
+Week 12: Final Instructions and Project Review – W/C 9th December 2024
+
+In the final week, we received detailed instructions about the project submission and reviewed our games with Dr. Kurtis. I applied the last round of optimizations and ensured all features were functioning as intended. Reading materials on the Moodle page provided additional insights into polishing the game for submission. 
+
+• Reflection: The final review and instructions were crucial in identifying and addressing minor issues in the game. 
+
+• Milestone: Implemented further optimizations and ensured cross-device compatibility.
+
+
+
+Week 13: BootCamp Session & Project Implementation for Submission – W/C 16th December 2024
+
+Pending
+
+
+
+Week 14: – W/C 23rd December 2024
+
+Pending
+
+
+
+Week 15: – W/C 30th December 2024
+
+Pending
+
+
+
+## References
+
+
+
+
+
