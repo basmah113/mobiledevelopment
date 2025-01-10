@@ -2,6 +2,8 @@ Basmah Arif | Module CMP6187 Mobile Game Development | Student ID:21159823
 
 ## MobileDevelopment
 
+To Access the project, navigate to the compressed zip folder called “Assets” and open it via Unity Hub version 2022.3.26f1. The Export folder contains the .apk and. aab build files of the project. 
+
 ## Overview
 
 This project contains Mobile Game Development project developed using Unity and Visual Studio. It has been thoroughly tested using an Android Samsung A52 device with API 31. Lightdash:Break the Beam is a single-player mobile game that combines fast-paced reflexes with strategic puzzle-solving. The player is trapped in a series of laser filled pathways and must navigate through each levels while avoiding deadly lasers and other obstacles. The game includes three progressively levels, each with unique environments and mechanics to test the player's skill.
