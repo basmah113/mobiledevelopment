@@ -2,66 +2,49 @@ Basmah Arif | Module CMP6187 Mobile Game Development | Student ID:21159823
 
 ## MobileDevelopment
 
+To Access the project, navigate to the compressed zip folder called “Assets” and open it via Unity Hub version 2022.3.26f1. The Export folder contains the .apk and. aab build files of the project. 
+
 ## Overview
 
-This project contains Mobile Game Development project developed using Unity, Unreal Engine and Visual Studio. It will be thoroughly tested using an Android Samsung A52 device with API 31. Lightdash:Break the Beam is a single-player mobile game that combines fast-paced reflexes with strategic puzzle-solving. The player is trapped in a series of increasingly complex laser filled rooms and must navigate through the maze while avoiding deadly lasers and other obstacles. The game includes four progressively challenging levels, each with unique environments and mechanics to test the player's skill.
+This project contains Mobile Game Development project developed using Unity and Visual Studio. It has been thoroughly tested using an Android Samsung A52 device with API 31. Lightdash:Break the Beam is a single-player mobile game that combines fast-paced reflexes with strategic puzzle-solving. The player is trapped in a series of laser filled pathways and must navigate through each levels while avoiding deadly lasers and other obstacles. The game includes three progressively levels, each with unique environments and mechanics to test the player's skill.
 The game is built using Unity and C# for scripting. The project focuses on implementing dynamic obstacles, responsive controls, and level progression to keep players engaged on Mobile App.
 
 ## Description of the Game
 
-In Lightdash:Break the Beam, player is tasked with escaping from a series of laser filled rooms. Each level presents a different challenge, ranging from dodging moving laser beams, solving mazes, to performing precision jumps in parkour-style sections. The goal is to reach the exit, all while avoiding deadly laser beams. 
+In Lightdash:Break the Beam, player is tasked with escaping from a series of laser filled pathways. Each level presents a different environment, ranging from dodging moving laser beams, rotating hammers and spiky balls, to performing precision jumps in parkour-style sections. The goal is to reach the exit, all while avoiding deadly obstacles. 
 
 **Levels:**
 
 - Level 1 – Laser Room:
-Player is introduced to the basic mechanics by navigating through a room filled with stationary lasers. The objective is simple: avoid touching the lasers and reach the exit.
+Introduction to simple laser obstacles with rotating hammers and spiky balls on the platform. The objective is simple: avoid touching the obstacles and reach the exit.
 
 - Level 2 – Maze Challenge:
-This level introduces a basic maze with laser obstacles. Player must find the correct path through the maze while avoiding lasers that rotate or move along fixed paths.
+New Background environment replaces the original, offering a more refreshed aesthetic. 
 
 - Level 3 – Parkour Escape:
-Player must jump between platforms while avoiding lasers. Some platforms will collapse after a short time, adding an extra challenge to the parkour elements.
-
-- Level 4 – Ultimate Escape:
-The final level includes a mix of jumping, dodging lasers, and activating switches that open doors to the exit. Player must time their movements carefully to avoid traps and escape in time.
+Another Background Environment shift creates a different visual atmosphere. 
 
 
 ## Game Mechanics
 
 - **Single-Player Experience:**
   
-The game is designed as a single-player adventure where the player takes full control of navigating each level, focusing on timing, reflexes, and strategy to overcome obstacles.
+The game is designed as a single-player adventure where the player takes full control of navigating each level, focusing on reflexes, and strategy to overcome obstacles. I have used 3 Main controls in my Game: Gyroscope, Accelerometer and Buttons along with Swipe Up functionality. 
 
-- **Touch-Based Controls:**
-  
-1) Swipe Left/Right: Moves the player character left or right.
-2) Swipe Up: Makes the player jump.
-3) Swipe Down: Allows the player to crouch (useful for dodging certain obstacles).
-4) Tap: Interacts with objects like switches or buttons.
+- **Button Controls:**
 
-- **Running and Walking:**
-Player can control the speed of the movement based on swiping intensity. A short swipe makes the character walk, while a longer, faster swipe makes the character run. This adds an element of timing to avoid lasers and navigate obstacles.
+1) Left/Right Movement: On-screen buttons for precise movement.
+2) Swipe Up: Swipe Up functionality for jumping, allowing the player to leap over obstacles and lasers.
+3) Forward/Backward Buttons: Used for player’s movement during the gameplay. 
 
 - **Jumping:**
-Tapping or swiping up allows the player to jump over obstacles. Some areas will require precise timing to avoid laser beams or cross collapsing platforms.
+Swiping up allows the player to jump over obstacles. Some areas will require precise timing to avoid laser beams or rotating obstacles.
 
-- **Laser Avoidance:**
-Lasers are the primary obstacle throughout the game. They vary between static, rotating, and moving patterns, requiring precise timing to avoid. Touching a laser results in an instant loss of a life, depending on the difficulty mode.
-
-- **Mazes and Puzzles:**
-In maze level, player must navigate through a complex layout while avoiding obstacles. The layout of the maze is dynamic, with lasers blocking some paths and opening others at random intervals.
-
-- **Parkour Mechanics:**
-Parkour levels require players to jump between platforms while avoiding obstacles. Timing and precision are essential, as some platforms collapse or move.
-
-- **Switches and Puzzles:**
-Some levels include switches that players must activate to open doors or disable lasers.
+- **Laser/Obstacles Avoidance:**
+Lasers are the primary obstacle throughout the game. They vary between static, rotating, and moving patterns, requiring precise timing to avoid alongside rotating hammers and spiky balls. Touching a laser or obstacles results in an instant loss of a life but can be regained after watching rewarded ads. 
 
 - **Power-ups:**
-Occasionally, power-ups spawn in difficult-to-reach areas. These can temporarily slow down obstacles, increase the player’s speed, or extend the level’s time limit, offering brief relief during particularly challenging sections.
-
-- **Health and Timer:**
-Certain levels have a time limit, requiring player to complete the level before time runs out. In advanced levels, player can take minor damage (losing a life) from non-lethal obstacles (like falling platforms), but touching lasers results in an immediate reset of the level.
+Coins are located on the platform of each level which the player can collect to then further purchase ball skins. 
 
 
 ## Visual and Audio Design
@@ -88,6 +71,7 @@ The decision to include mobile-friendly touch controls was based on the desire t
 - Visual Studio: https://https//code.visualstudio.com/ (Code Development)
 - Unity: https://unity.com/ (Game Engine used for development - Stage 1 & 2)
 - GitHub: (Version control and collaboration)
+- Unity Asset Store: https://assetstore.unity.com/ (Asset Store used for 3D Models, Characters, Tools, Visual Effects in the game)
 - C#: (Programming Languages for scripting and game mechanics)
 
 
@@ -113,26 +97,32 @@ The decision to include mobile-friendly touch controls was based on the desire t
 
 - **Action Taken:** Based on the feedback, I began implementing vibration levels (high, medium, low) for different in-game events to improve player immersion. I also started integrating Unity’s Input System to streamline touch and sensor-based controls. Additionally, I explored the setup for Google Play Services to ensure the game is ready for platform-specific functionalities. Progress on these features will be demonstrated in the upcoming bootcamp session for further review.
 
-**BootCamp Feedback:**
+## Folders / Structures of GitHub Repository
+
+- [.github] (contains configuration files, such as workflows for CI/CD pipelines)
+
+- [labs] (contains lab workshops from week to week, documenting the progress of lectures)
+
+- [documentation] (contains weekly logbook, planning document, powerpoint presentation, checklist)
+
+- [Unity] (contains the main Unity project files, including assets, scenes, scripts and prefabs necessary for the game's development)
+
+- [.gitignore] (contains untracked files to ignore in Git such as Build files, logs)
+
+- [README] (this file contains complete documentation)
 
 
-## Folders / Structures
+## Folders / Structures of Final Submission
 
 Basmah_Arif_21159823
 
-1. [bin] (contains compiled binaries)
-   
-2. [code] (contains source code)
-   
-3. [imgs] (contains projects images and visual assets)
-   
-4. [labs] (contains lab workshops from week to week, documenting the progress of lectures)
-   
-5. .gitignore (contains untracked files to ignore in Git such as Build files, logs)
-    
-6. [Readme] (this file contains documentation)
-    
-7. [video] (this file will contain gameplay and project demo videos with h264/aac however not yet implemented)
+- [bin] (contains compiled binaries)
+
+- [code] (contains source code with build files)
+
+- [Readme] (this file contains complete documentation)
+
+- [video] (this file contains gameplay and project demo video with h264/aac explaining key concepts)
 
 ## Installation
 
@@ -162,7 +152,7 @@ TODO:
 
 **Quality Assurance**
 
-- I will be using code linting for consistency and bug prevention.
+- I have used code linting for consistency and bug prevention
 - CI/CD setup in GitHub to ensure smooth integration and testing.
 - Regular code reviews by automated tests to validate the codebase.
 
@@ -315,27 +305,68 @@ In the final week, we received detailed instructions about the project submissio
 
 
 
-**Week 13: BootCamp Session & Project Implementation for Submission – W/C 16th December 2024**
+**Week 13: Project Implementation for Submission  – W/C 16th December 2024**
 
-Pending
+This week, I focused on the final stages of implementing and testing the game for submission. However, progress was initially slowed due to a Gradle Build Error that took me four days to fix. The issue was caused by duplicate files and errors within the packages folder and Gradle folder of the Temp. Resolving this required careful examination of the Asset Resolve Libraries and manual corrections to avoid conflicts. After successfully resolving the build error, I moved forward with integrating essential features like In-App Purchases (IAP), Unity Ads and the Weather API for added functionality.
 
+•	Reflection: Resolving the Gradle Build Error was frustrating, but it taught me the importance of managing dependencies and understanding build processes. Despite the setbacks, integrating IAP and ads made the game feel more polished and ready for publication.
 
-
-**Week 14: – W/C 23rd December 2024**
-
-Pending
+•	Milestone: Fixed Gradle Build Error, implemented IAP, Unity Ads and Weather API functionality.
 
 
 
-**Week 15: – W/C 30th December 2024**
+**Week 14: Publishing Preparation & Google Play Console – W/C 23rd December 2024**
 
-Pending
+During this week, I set up my Google Play Console account to publish the game. The account verification process took several days, but once completed, I began closed and internal testing for the app to ensure its functionality and compliance with Google’s guidelines. Additionally, I implemented vibration functionality to enhance the game’s user experience. Testing vibrations for different events like collisions and rewards added another layer of immersion for players.
+I also created an account on itch.io and successfully published my game there, making it available to a wider audience for testing and feedback.
 
+•	Reflection: Publishing the game on two platforms (Google Play Store and itch.io) was a significant milestone. Testing on these platforms helped identify areas for improvement while giving me valuable experience in app deployment and distribution.
+
+•	Milestone: Set up Google Play Console, performed internal testing, integrated vibration functionality, and published the game on itch.io.
+
+
+
+**Week 15: Final Documentation & Error Resolution – W/C 30th December 2024**
+
+This week was dedicated to finalizing all project-related documentation, including the PowerPoint presentation, weekly logbooks, planning documentation, and GitHub repository updates. I also reviewed the checklist to ensure all submission requirements were met. During this process, I encountered and resolved additional minor errors, such as issues with IAP purchases and ad integration, which required detailed debugging and adjustments.
+
+•	Reflection: Compiling and refining the documentation helped me assess the project as a whole and ensure that it met the required standards. Resolving lingering errors ensured the game was as polished and bug-free as possible before submission.
+
+•	Milestone: Completed all documentation, fixed remaining errors, and finalized the project for submission.
+
+## January 2025
+
+**Week 16: Final Testing and Submission – W/C 6th January 2025**
+
+The final week was focused on extensive testing across multiple devices to ensure the game’s performance, functionality, and compatibility. I performed another round of testing for features like Google Play Services, Unity Ads, Weather API, and vibration functionality. These tests confirmed the game’s readiness for submission. I also reviewed all documentation and added the final touches to the GitHub repository to ensure everything was up to date. 
+
+•	Reflection: Testing on various devices highlighted the robustness of the game and gave me confidence in its quality. Completing the final submission marked the culmination of weeks of effort and problem-solving.
+
+•	Milestone: Conducted final testing, completed documentation review, and submitted the project on Moodle. 
 
 
 ## References
 
 
+1.	Unity Asset Store. (2024) Basic Motions Free. Available at: https://assetstore.unity.com/packages/3d/animations/basic-motions-free-154271 (Accessed 14 October. 2024).
 
 
+2.	UnityAssetStore. (2024). 3D Ball Package. [online] Available at: https://assetstore.unity.com/packages/3d/props/3d-ball-package-284973 [Accessed 20 December. 2024].
 
+
+3.	UnityAssetStore. (2024). Skybox AI Generator by Blockade Labs (Subscription). [online] Available at: https://assetstore.unity.com/packages/tools/generative-ai/skybox-ai-generator-by-blockade-labs-subscription-274237 [Accessed 21 December. 2024].
+
+
+4.	UnityAssetStore. (2015). Ultimate GUI Kit. [online] Available at: https://assetstore.unity.com/packages/tools/gui/ultimate-gui-kit-19193 [Accessed 21 December. 2024].
+
+
+5.	UnityAssetStore. (2022). Rolling Balls Sci-fi Pack Free. [online] Available at: https://assetstore.unity.com/packages/3d/props/rolling-balls-sci-fi-pack-free-297168 [Accessed 21 December. 2022].
+
+
+6.	assetstore.unity.com. (n.d.). Low Poly Street Pack | 3D Urban | Unity Asset Store. [online] Available at: https://assetstore.unity.com/packages/3d/environments/urban/low-poly-street-pack-67475.
+
+
+7.	assetstore.unity.com. (n.d.). Basic Motions FREE | 3D Animations | Unity Asset Store. [online] Available at: https://assetstore.unity.com/packages/3d/animations/basic-motions-free-154271.
+
+
+8.	assetstore.unity.com. (n.d.). Fantasy Skybox FREE | 2D Sky | Unity Asset Store. [online] Available at: https://assetstore.unity.com/packages/2d/textures-materials/sky/fantasy-skybox-free-18353.
