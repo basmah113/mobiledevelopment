@@ -333,7 +333,8 @@ This week was dedicated to finalizing all project-related documentation, includi
 
 ## January 2025
 
-**Week 16: Final Testing and Submission – W/C 6th January 2025
+**Week 16: Final Testing and Submission – W/C 6th January 2025**
+
 The final week was focused on extensive testing across multiple devices to ensure the game’s performance, functionality, and compatibility. I performed another round of testing for features like Google Play Services, Unity Ads, Weather API, and vibration functionality. These tests confirmed the game’s readiness for submission. I also reviewed all documentation and added the final touches to the GitHub repository to ensure everything was up to date. 
 
 •	Reflection: Testing on various devices highlighted the robustness of the game and gave me confidence in its quality. Completing the final submission marked the culmination of weeks of effort and problem-solving.
