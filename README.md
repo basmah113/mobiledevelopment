@@ -325,6 +325,7 @@ I also created an account on itch.io and successfully published my game there, m
 
 
 **Week 15: Final Documentation & Error Resolution – W/C 30th December 2024**
+
 This week was dedicated to finalizing all project-related documentation, including the PowerPoint presentation, weekly logbooks, planning documentation, and GitHub repository updates. I also reviewed the checklist to ensure all submission requirements were met. During this process, I encountered and resolved additional minor errors, such as issues with IAP purchases and ad integration, which required detailed debugging and adjustments.
 
 •	Reflection: Compiling and refining the documentation helped me assess the project as a whole and ensure that it met the required standards. Resolving lingering errors ensured the game was as polished and bug-free as possible before submission.
